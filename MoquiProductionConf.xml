@@ -4,7 +4,7 @@
     <default-property name="webapp_http_host" value=""/>
     <default-property name="webapp_http_port" value="80"/>
     <default-property name="webapp_https_port" value="443"/>
-    <default-property name="webapp_https_enabled" value="ture"/>
+    <default-property name="webapp_https_enabled" value="true"/>
     <default-property name="webapp_allow_origins" value="*"/>
 
     <default-property name="webapp_require_session_token" value="false"/>
